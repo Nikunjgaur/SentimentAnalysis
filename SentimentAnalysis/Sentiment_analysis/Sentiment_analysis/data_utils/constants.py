@@ -1,0 +1,1 @@
+EMOJI_MAP = {"joy":"😂", "fear":"😱", "anger":"😠", "sadness":"😢", "disgust":"😒", "shame":"😳", "guilt":"😳"}
